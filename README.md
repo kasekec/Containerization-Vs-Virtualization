@@ -49,5 +49,5 @@ Containerization provides an isolation to run your application while sharing the
 Hope you enjoyed our blog!
 
 **Contributors:**
-Muyembe Muchanga
-Kaseke F Chinyemba
+- Muyembe Muchanga
+- Kaseke F Chinyemba
