@@ -41,3 +41,13 @@ Containerization is the encapsulating or packaging up of software code and all i
 * **Unfamiliar development methodology:** Whereas writing applications for VMs, which are in effect the same as physical machines, was a straightforward transition for development teams, containerisation is a new approach to application development and testing. You may need to train or hire new staff to embrace this approach to virtualisation.
 * **Container sprawl** Single VMs will often run multiple applications, but containerisation promotes a one-container one-application infrastructure. This means containerisation tends to lead to a higher volume of discreet units to be monitored and managed.
 
+## Summing it all Up.
+
+[![](https://i2.wp.com/www.docker.com/blog/wp-content/uploads/Blog.-Are-containers-..VM-Image-1-1024x435.png?ssl=1)](https://www.docker.com/blog/containers-replacing-virtual-machines/)
+Containerization provides an isolation to run your application while sharing the same OS resources while on the other hand, Virtualization provides the same principal but in its own OS so Virtualized systems can run different operating systems and host multiple applications whose mix may change over time versus a container that will normally have a single application.
+
+Hope you enjoyed our blog!
+
+**Contributors:**
+Muyembe Muchanga
+Kaseke F Chinyemba
